@@ -4,6 +4,7 @@ public class Hello06{
 		
 		System.out.println("Hello, world");
 		System.out.println("Hello, world9999");
+		System.out.println("Hello, world999asdf9");
 
 
 	}
